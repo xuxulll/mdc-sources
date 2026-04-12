@@ -7,7 +7,7 @@ const UA =
 let appConfig = {
     ver: 1,
     title: '廠長',
-    site: 'https://www.czzymovie.com',
+    site: 'https://www.cz01.org',
 }
 
 async function getConfig() {
